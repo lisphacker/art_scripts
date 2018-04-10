@@ -1,0 +1,121 @@
+Code,Name,R,G,B
+A101,White,255,255,255
+A103,Ivory,255,242,176
+A102,Cream,255,255,125
+A104,Light yellow glaze,240,255,0
+A205,Cadmium yellow lemon,235,255,38
+A105,Light cadmium yellow,255,252,13
+A106,Light chrome yellow,255,245,54
+A107,Cadmium yellow,255,240,13
+A108,Dark cadmium yellow,255,230,0
+A109,Dark chrome yellow,255,214,0
+A111,Cadmium orange,255,166,26
+A113,Orange glaze,255,153,26
+A115,Dark cadmium orange,255,133,13
+A117,Light cadmium red,255,87,31
+A118,Scarlet red,255,13,0
+A121,Pale geranium lake,255,41,31
+A219,Deep scarlet red,255,54,0
+A126,Permanent carmine,245,0,47
+A223,Deep red,255,13,0
+A217,Middle cadmium red,184,0,7
+A225,Dark red,204,0,43
+A142,Madder,222,0,75
+A226,Alizarin crimson,242,0,104
+A127,Pink carmine,247,0,153
+A124,Rose carmine,255,61,158
+A128,Light purple pink,252,43,255
+A123,Fuchsia,255,0,255
+A133,Magenta,186,0,121
+A119,Light magenta,230,110,255
+A129,Pink madder lake,255,168,247
+A125,Middle purple pink,227,54,255
+A134,Crimson,128,0,255
+A160,Manganese violet,99,28,255
+A138,Violet,105,87,255
+A136,Purple violet,69,0,255
+A137,Blue violet,0,13,255
+A249,Mauve,0,5,179
+A141,Delft blue,0,18,230
+A157,Dark indigo,0,59,66
+A247,Indanthrene blue,0,65,196
+A151,Helioblue-reddish,0,143,255
+A143,Cobalt blue,74,148,255
+A120,Ultramarine,0,85,250
+A140,Light ultramarine,115,207,255
+A146,Skyblue,166,232,255
+A144,Cobalt blue-greenish,0,138,255
+A110,Phthalo blue,38,207,255
+A152,Middle phthalo blue,38,207,255
+A145,Light phthalo blue,79,237,255
+A149,Bluish turquoise,0,156,186
+A246,Prussian blue,0,121,219
+A155,Helio turquoise,0,158,120
+A153,Cobalt turquoise,0,196,159
+A154,Light cobalt turquoise,145,255,224
+A156,Cobalt green,0,237,164
+A158,Deep cobalt green,0,138,74
+A159,Hooker´s green,0,181,60
+A264,Dark phthalo green,0,199,46
+A276,Chrome oxide green fiery,13,255,135
+A161,Phthalo green,0,247,99
+A163,Emerald green,51,255,26
+A162,Light phthalo green,158,255,163
+A171,Light green,194,255,110
+A166,Grass green,150,255,56
+A112,Leaf green,150,255,56
+A266,Permanent green,116,242,0
+A167,Permanent green olive,82,186,0
+A267,Pine green,22,112,0
+A278,Chrome oxide green,64,112,0
+A165,Juniper green,52,148,0
+A173,Olive green yellowish,70,71,0
+A268,Green gold,217,178,0
+A170,May green,183,235,0
+A168,Earth green yellowish,165,207,0
+A174,Chromium green opaque,84,115,6
+A172,Earth green,132,189,143
+A169,Caput mortuum,122,26,0
+A263,Caput mortuum violet,87,9,0
+A193,Burnt carmine,207,0,91
+A194,Red-violet,179,0,152
+A135,Light red-violet,193,95,245
+A130,Dark flesh,255,140,153
+A131,Medium flesh,255,135,150
+A132,Light flesh,255,189,207
+A189,Cinnamon,255,168,122
+A191,Pompeian red,255,54,0
+A192,Indian red,184,0,7
+A190,Venetian red,255,92,0
+A188,Sanguine,255,82,0
+A187,Burnt ochre,237,133,0
+A186,Terracotta,252,124,0
+A183,Light yellow ochre,255,214,59
+A185,Naples yellow,255,235,69
+A184,Dark naples ochre,255,232,51
+A182,Brown ochre,232,158,0
+A180,Raw umber,196,124,0
+A179,Bistre,117,55,0
+A176,Van dyck brown,105,45,0
+A178,Nougat,74,26,0
+A280,Burnt umber,54,21,0
+A283,Burnt siena,171,72,0
+A177,Walnut brown,66,13,0
+A175,Dark sepia,28,22,0
+A275,Warm grey vi,32,39,0
+A274,Warm grey v,46,46,39
+A273,Warm grey iv,112,103,88
+A272,Warm grey iii,212,203,195
+A271,Warm grey ii,232,227,220
+A270,Warm grey i,240,235,233
+A230,Cold grey i,227,227,227
+A231,Cold grey ii,205,209,209
+A232,Cold grey iii,168,173,173
+A233,Cold grey iv,125,124,125
+A234,Cold grey v,99,99,99
+A235,Cold grey vi,9,12,13
+A181,Payne´s grey,0,0,0
+A199,Black,0,0,0
+A251,Silver,204,204,204
+A250,Gold,205,173,0
+A252,Copper,153,102,102
