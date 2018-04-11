@@ -98,4 +98,22 @@ def convert():
     append(poly_rgb)
     append(poly_cmyk)
 
-    swatch.write(swatches, 'pencil_palettes.ase')
+    #swatch.write(swatches, 'pencil_palettes.ase')
+
+
+def convert_gpl(pencil):
+    colors = read_csv(pencil + '.csv')
+
+    with open(pencil + '.gpl', 'w') as f:
+        f.write('GIMP Palette\n')
+        f.write('Name: ' + pencil.capitalize() + '\n')
+        f.write('Columns: 0\n')
+        f.write('#\n')
+
+        for code in colors:
+            name, rgb, cmyk = colors[code]
+            f.write('{0} {1} {2} {3}\n'.format(int(rgb[0] * 255),
+                                               int(rgb[1] * 255),
+                                               int(rgb[2] * 255),
+                                               code + ' ' + name))
+            

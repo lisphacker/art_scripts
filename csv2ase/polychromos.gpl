@@ -1,0 +1,124 @@
+GIMP Palette
+Name: Polychromos
+Columns: 0
+#
+255 255 255 A101 White
+255 242 176 A103 Ivory
+255 255 125 A102 Cream
+240 255 0 A104 Light yellow glaze
+235 255 38 A205 Cadmium yellow lemon
+255 252 13 A105 Light cadmium yellow
+255 245 54 A106 Light chrome yellow
+255 240 13 A107 Cadmium yellow
+255 230 0 A108 Dark cadmium yellow
+255 214 0 A109 Dark chrome yellow
+255 166 26 A111 Cadmium orange
+255 153 26 A113 Orange glaze
+255 133 13 A115 Dark cadmium orange
+255 87 31 A117 Light cadmium red
+255 13 0 A118 Scarlet red
+255 41 31 A121 Pale geranium lake
+255 54 0 A219 Deep scarlet red
+245 0 47 A126 Permanent carmine
+255 13 0 A223 Deep red
+184 0 7 A217 Middle cadmium red
+204 0 43 A225 Dark red
+222 0 75 A142 Madder
+242 0 104 A226 Alizarin crimson
+247 0 153 A127 Pink carmine
+255 61 158 A124 Rose carmine
+252 43 255 A128 Light purple pink
+255 0 255 A123 Fuchsia
+186 0 121 A133 Magenta
+230 110 255 A119 Light magenta
+255 168 247 A129 Pink madder lake
+227 54 255 A125 Middle purple pink
+128 0 255 A134 Crimson
+99 28 255 A160 Manganese violet
+105 87 255 A138 Violet
+69 0 255 A136 Purple violet
+0 13 255 A137 Blue violet
+0 5 179 A249 Mauve
+0 18 230 A141 Delft blue
+0 59 66 A157 Dark indigo
+0 65 196 A247 Indanthrene blue
+0 143 255 A151 Helioblue-reddish
+74 148 255 A143 Cobalt blue
+0 85 250 A120 Ultramarine
+115 207 255 A140 Light ultramarine
+166 232 255 A146 Skyblue
+0 138 255 A144 Cobalt blue-greenish
+38 207 255 A110 Phthalo blue
+38 207 255 A152 Middle phthalo blue
+79 237 255 A145 Light phthalo blue
+0 156 186 A149 Bluish turquoise
+0 121 219 A246 Prussian blue
+0 158 120 A155 Helio turquoise
+0 196 159 A153 Cobalt turquoise
+145 255 224 A154 Light cobalt turquoise
+0 237 164 A156 Cobalt green
+0 138 74 A158 Deep cobalt green
+0 181 60 A159 Hooker´s green
+0 199 46 A264 Dark phthalo green
+13 255 135 A276 Chrome oxide green fiery
+0 247 99 A161 Phthalo green
+51 255 26 A163 Emerald green
+158 255 163 A162 Light phthalo green
+194 255 110 A171 Light green
+150 255 56 A166 Grass green
+150 255 56 A112 Leaf green
+116 242 0 A266 Permanent green
+82 186 0 A167 Permanent green olive
+22 112 0 A267 Pine green
+64 112 0 A278 Chrome oxide green
+52 148 0 A165 Juniper green
+70 71 0 A173 Olive green yellowish
+217 178 0 A268 Green gold
+183 235 0 A170 May green
+165 207 0 A168 Earth green yellowish
+84 115 6 A174 Chromium green opaque
+132 189 143 A172 Earth green
+122 26 0 A169 Caput mortuum
+87 9 0 A263 Caput mortuum violet
+207 0 91 A193 Burnt carmine
+179 0 152 A194 Red-violet
+193 95 245 A135 Light red-violet
+255 140 153 A130 Dark flesh
+255 135 150 A131 Medium flesh
+255 189 207 A132 Light flesh
+255 168 122 A189 Cinnamon
+255 54 0 A191 Pompeian red
+184 0 7 A192 Indian red
+255 92 0 A190 Venetian red
+255 82 0 A188 Sanguine
+237 133 0 A187 Burnt ochre
+252 124 0 A186 Terracotta
+255 214 59 A183 Light yellow ochre
+255 235 69 A185 Naples yellow
+255 232 51 A184 Dark naples ochre
+232 158 0 A182 Brown ochre
+196 124 0 A180 Raw umber
+117 55 0 A179 Bistre
+105 45 0 A176 Van dyck brown
+74 26 0 A178 Nougat
+54 21 0 A280 Burnt umber
+171 72 0 A283 Burnt siena
+66 13 0 A177 Walnut brown
+28 22 0 A175 Dark sepia
+32 39 0 A275 Warm grey vi
+46 46 39 A274 Warm grey v
+112 103 88 A273 Warm grey iv
+212 203 195 A272 Warm grey iii
+232 227 220 A271 Warm grey ii
+240 235 233 A270 Warm grey i
+227 227 227 A230 Cold grey i
+205 209 209 A231 Cold grey ii
+168 173 173 A232 Cold grey iii
+125 124 125 A233 Cold grey iv
+99 99 99 A234 Cold grey v
+9 12 13 A235 Cold grey vi
+0 0 0 A181 Payne´s grey
+0 0 0 A199 Black
+204 204 204 A251 Silver
+205 173 0 A250 Gold
+153 102 102 A252 Copper
